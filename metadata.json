@@ -1,0 +1,6 @@
+{
+  "name": "CogniChain AI - Supply Chain Control Tower",
+  "description": "Agentic AI-powered end-to-end supply chain visibility, multi-echelon inventory control, and demand forecasting for Sleepsia India (sleepsia.in).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
